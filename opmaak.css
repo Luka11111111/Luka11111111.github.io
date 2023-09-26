@@ -12,12 +12,12 @@ li {
 
 li a {
     display: block;
-    color: olive;
+    color: black;
     text-emphasis: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 li a:hover {
-    background-color: olive;
+    background-color: black;
 }
