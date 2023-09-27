@@ -1,0 +1,30 @@
+<!DOCTYPE html> <!--dit is de homepage van mijn-->
+<html> <!--dit is het html-element-->
+<head>
+    <title>Het eerste begin</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="opmaak.css">
+</head>
+<body>
+
+
+<br>
+<ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="binairstelsel.html">Binair stelsel</a></li>
+    <li><a href="kleurmodellen.html">Kleurmodellen</a></li>
+    <li><a href="compressietechnieken.html">Compressietechnieken/a></li>
+    <li><a href="cpu.html">Cpu</a></li>
+  </ul>
+<p>
+    Invoer: Gegevens worden van externe bronnen naar de computer gestuurd via invoerapparaten.
+
+    Verwerking: De centrale verwerkingseenheid (CPU) van de computer verwerkt deze gegevens door rekenkundige en logische bewerkingen uit te voeren.
+    
+    Uitvoer: De resultaten van de verwerking worden weergegeven aan de gebruiker of doorgestuurd naar andere apparaten via uitvoerapparaten.
+    
+    Opslag: Gegevens worden opgeslagen voor toekomstig gebruik op opslagapparaten zoals harde schijven en SSD's.
+
+</p>
+</body>
+</html>
